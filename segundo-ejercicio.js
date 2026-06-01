@@ -18,9 +18,6 @@ function validarContrasena(contrasena) {
 
 }
 
-
-
-
 validarContrasena("Hola1234")
 
 
